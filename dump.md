@@ -1,0 +1,1 @@
+- Where do define decorators that are only going to be used for methods of just one class? https://medium.com/@vadimpushtaev/decorator-inside-python-class-1e74d23107f6
