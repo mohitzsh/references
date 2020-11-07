@@ -1,3 +1,4 @@
 - Where do define decorators that are only going to be used for methods of just one class? https://medium.com/@vadimpushtaev/decorator-inside-python-class-1e74d23107f6
 - Best practices while using decorators https://stackoverflow.com/questions/10294014/python-decorator-best-practice-using-a-class-vs-a-function
 - Very structured course material for abstract linear algebra course at Waterloo Math http://www.math.uwaterloo.ca/~jmckinno/math225.html
+- Details on setting up a clean blogging environment -- http://gregorygundersen.com/blog/2020/06/21/blog-theme/
