@@ -2,3 +2,4 @@
 - Best practices while using decorators https://stackoverflow.com/questions/10294014/python-decorator-best-practice-using-a-class-vs-a-function
 - Very structured course material for abstract linear algebra course at Waterloo Math http://www.math.uwaterloo.ca/~jmckinno/math225.html
 - Details on setting up a clean blogging environment -- http://gregorygundersen.com/blog/2020/06/21/blog-theme/
+- Good tutorial on change of basis: https://eli.thegreenplace.net/2015/change-of-basis-in-linear-algebra/
