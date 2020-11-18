@@ -4,3 +4,4 @@
 - Details on setting up a clean blogging environment -- http://gregorygundersen.com/blog/2020/06/21/blog-theme/
 - Good tutorial on change of basis: https://eli.thegreenplace.net/2015/change-of-basis-in-linear-algebra/
 - Errata for PRML, Bishop -- https://yousuketakada.github.io/prml_errata/prml_errata.pdf
+- Production grade python packaging -- https://www.youtube.com/watch?v=tfI2hdK6vVY&ab_channel=Anaconda%2CInc.
