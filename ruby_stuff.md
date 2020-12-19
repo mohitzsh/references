@@ -1,0 +1,1 @@
+- Switching ruby versions using rbenv https://makandracards.com/makandra/21545-rbenv-how-to-switch-to-another-ruby-version-temporarily-per-project-or-globally
