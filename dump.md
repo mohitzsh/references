@@ -8,3 +8,4 @@
 - Detailed introductory course on statistics, nice lecture notes with examples and problems: https://faculty.math.illinois.edu/~r-ash/Stat.html
 - minitorch -- Learn internals of Pytorch -- https://minitorch.github.io/
 - Pytorch + Jax https://sjmielke.com/jax-purify.htm
+- Fast Mathematics notetaking using VIM and Latex: https://castel.dev/post/lecture-notes-1/
