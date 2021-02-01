@@ -9,3 +9,7 @@
 - minitorch -- Learn internals of Pytorch -- https://minitorch.github.io/
 - Pytorch + Jax https://sjmielke.com/jax-purify.htm
 - Fast Mathematics notetaking using VIM and Latex: https://castel.dev/post/lecture-notes-1/
+- Setting up Gitbook on Ubuntu 16.4 LTS:
+  - Install node and npm https://github.com/nodesource/distributions/blob/master/README.md (Prefer Node.js v12.x: [ref](https://stackoverflow.com/questions/61538769/gitbook-init-error-typeerror-err-invalid-arg-type-the-data-argument-must-b))
+  - Install gitbook through npm (`npm install gitbook-cli -g`)
+  - Fix the error related to a depricated version of `graceful-fs` library using this [solution](https://github.com/GitbookIO/gitbook-cli/issues/110#issuecomment-669640662).
