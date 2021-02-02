@@ -13,3 +13,7 @@
   - Install node and npm https://github.com/nodesource/distributions/blob/master/README.md (Prefer Node.js v12.x: [ref](https://stackoverflow.com/questions/61538769/gitbook-init-error-typeerror-err-invalid-arg-type-the-data-argument-must-b))
   - Install gitbook through npm (`npm install gitbook-cli -g`)
   - Fix the error related to a depricated version of `graceful-fs` library using this [solution](https://github.com/GitbookIO/gitbook-cli/issues/110#issuecomment-669640662).
+- Using Bookdown for writing mathematical content:
+  - Bookdown [official page](https://bookdown.org/yihui/bookdown/)
+  - Someone's experience in writing using Bookdown: [Link](https://www.homepages.ucl.ac.uk/~ucahmto/elearning/2019/09/14/bookdown.html)
+  
