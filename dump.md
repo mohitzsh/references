@@ -16,4 +16,6 @@
 - Using Bookdown for writing mathematical content:
   - Bookdown [official page](https://bookdown.org/yihui/bookdown/)
   - Someone's experience in writing using Bookdown: [Link](https://www.homepages.ucl.ac.uk/~ucahmto/elearning/2019/09/14/bookdown.html)
+- Conda internals
+  - [Stackoverflow answer](https://stackoverflow.com/questions/27753898/how-does-conda-work-internally) seems like a good starting point. It links to a talk at SciPy.
   
