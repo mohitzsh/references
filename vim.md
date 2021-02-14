@@ -2,3 +2,5 @@
 - HOWTOS:
   - Source the `init.vim` file inside the neovim edition after making changes
       - `source $MYVIMRC` (`$MYVIMRC` is defined by neovim and `source` command is also provided)
+  - How to create a new file using `netrw` plugin (is it a plugin? ships with neovim)
+    - `%` : Hover over the directory where you want to create a new file and hit `%`!
