@@ -9,4 +9,8 @@
 - [A markdown editing setup within neovim](https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim/)
 - Why `netrw` is (almost) the right plugin for file browsing in vim! [Link](http://vimcasts.org/blog/2013/01/oil-and-vinegar-split-windows-and-project-drawer/)
 - Plugins
-  - 
+  - `godlygeek/tabular`:
+  - `elzr/vim-json` :
+  - `plasticboy/vim-markdown` : 
+  - `vim-pandoc/vim-pandoc-syntax` : Can be used in conjunction with `plasticboy/vim-markdown`. [This Blog](https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim) says it provides superior syntax highlighting for markdown files.
+  
