@@ -4,3 +4,9 @@
       - `source $MYVIMRC` (`$MYVIMRC` is defined by neovim and `source` command is also provided)
   - How to create a new file using `netrw` plugin (is it a plugin? ships with neovim)
     - `%` : Hover over the directory where you want to create a new file and hit `%`!
+  - How to generate the project drawer using netrw?
+    - `:edit .` or `:e.` 
+- [A markdown editing setup within neovim](https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim/)
+- Why `netrw` is (almost) the right plugin for file browsing in vim! [Link](http://vimcasts.org/blog/2013/01/oil-and-vinegar-split-windows-and-project-drawer/)
+- Plugins
+  - 
