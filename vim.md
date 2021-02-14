@@ -7,7 +7,7 @@
   - How to generate the project drawer using netrw?
     - `:edit .` or `:e.` 
 - [A markdown editing setup within neovim](https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim/)
-- Why `netrw` is (almost) the right plugin for file browsing in vim! [Link](http://vimcasts.org/blog/2013/01/oil-and-vinegar-split-windows-and-project-drawer/)
+- Why `netrw` is (almost) the right plugin for file browsing in vim! [Link](http://vimcasts.org/blog/2013/01/oil-and-vinegar-split-windows-and-project-drawer/) Open for a debate on *Project Drawer* vs *Split-Window*. 
 - Plugins
   - `godlygeek/tabular`:
   - `elzr/vim-json` :
