@@ -19,3 +19,5 @@
 - Conda internals
   - [Stackoverflow answer](https://stackoverflow.com/questions/27753898/how-does-conda-work-internally) seems like a good starting point. It links to a talk at SciPy.
   
+- VIM
+  - netrw plugin https://shapeshed.com/vim-netrw/
