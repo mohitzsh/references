@@ -1,1 +1,4 @@
 - [Learn VimScript the Hard Way]( https://learnvimscriptthehardway.stevelosh.com/)
+- HOWTOS:
+  - Source the `init.vim` file inside the neovim edition after making changes
+      - `source $MYVIMRC` (`$MYVIMRC` is defined by neovim and `source` command is also provided)
