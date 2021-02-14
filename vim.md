@@ -13,4 +13,4 @@
   - `elzr/vim-json` :
   - `plasticboy/vim-markdown` : 
   - `vim-pandoc/vim-pandoc-syntax` : Can be used in conjunction with `plasticboy/vim-markdown`. [This Blog](https://jdhao.github.io/2019/01/15/markdown_edit_preview_nvim) says it provides superior syntax highlighting for markdown files.
-  
+  - `iamcco/markdown-preview.nvim` : Preview markdown content written in neovim in a web-browser (supports katex for math). For details, check [this](https://github.com/iamcco/markdown-preview.nvim) out.
