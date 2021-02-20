@@ -21,3 +21,5 @@
   
 - VIM
   - netrw plugin https://shapeshed.com/vim-netrw/
+
+- Pytorch performance recipe https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html
