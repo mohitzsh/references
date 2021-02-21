@@ -23,3 +23,4 @@
   - netrw plugin https://shapeshed.com/vim-netrw/
 
 - Pytorch performance recipe https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html
+- Gradient and Hessian of linear and quadratic functions! https://www.cs.ubc.ca/~schmidtm/Courses/Notes/linearQuadraticGradients.pdf
