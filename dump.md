@@ -24,3 +24,6 @@
 
 - Pytorch performance recipe https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html
 - Gradient and Hessian of linear and quadratic functions! https://www.cs.ubc.ca/~schmidtm/Courses/Notes/linearQuadraticGradients.pdf
+- fswatch
+  - osx library which can monitor filesystem; for my usecase, it can be combined with rsycn to synchronize my local-filesystem with some remote machine automatically when a file changes on my local machine
+  - a short tutorial on how `rsync` and `fswatch` can be used together!
