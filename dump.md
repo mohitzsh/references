@@ -27,3 +27,4 @@
 - fswatch
   - osx library which can monitor filesystem; for my usecase, it can be combined with rsycn to synchronize my local-filesystem with some remote machine automatically when a file changes on my local machine
   - a short tutorial on how `rsync` and `fswatch` can be used together! [Link](https://ixday.github.io/post/rsync_fswatch/)
+- Parallel programming course I always wanted to take ([Berkeley CS267 Application of Parallel Computers](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/). Video Lectures available
