@@ -29,3 +29,4 @@
   - a short tutorial on how `rsync` and `fswatch` can be used together! [Link](https://ixday.github.io/post/rsync_fswatch/)
 - Parallel programming course I always wanted to take ([Berkeley CS267 Application of Parallel Computers](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/). Video Lectures available
 - [What does flush() really do in python](https://stackoverflow.com/questions/7127075/what-exactly-is-pythons-file-flush-doing)
+- Detailed experience of using Jekyll to build something non-trivial. Very good stuff. [Link](https://mademistakes.com/articles/using-jekyll-2016/)
