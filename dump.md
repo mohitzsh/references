@@ -33,3 +33,4 @@
 - A nicer looking variant of the `minima` theme for jekyll [Github](https://github.com/aterenin/minima-reboot)
 - Collection of learnings on using Jekyll [Github](https://github.com/mmistakes/made-mistakes-jekyll/)
 - How to use jekyll to organize a book-like content. [SO](https://stackoverflow.com/questions/37277738/can-i-create-nested-collections-in-jekyll)
+- Recommended reading list from Schmidhuber [List](https://www.reddit.com/r/MachineLearning/comments/2xcyrl/i_am_j%C3%BCrgen_schmidhuber_ama/cp5c0py/)
