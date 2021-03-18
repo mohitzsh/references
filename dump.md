@@ -39,3 +39,5 @@
    Github issue pointing out the redundency of jekyll-latex!
 - `type-theme` : An alternative theme for jekyll with inbuild katex integration. Adopt this one if you can't make `minima` work with katex
 - `common-crawl` seems to be a good text dataset. Understand this discussion https://github.com/allenai/allennlp/discussions/5056
+- Pytorch model inference on multi-core CPU:
+    - https://github.com/pytorch/pytorch/issues/9873 : Seems to be a relevant issue on github. It suggests we compile from source to really utilize multiple cores.
