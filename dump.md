@@ -38,3 +38,4 @@
 - `jekyll-katex` seems to be unmaintained. And it doesn't support full latex functionalities! Try this [link](https://gendignoux.com/blog/2020/05/23/katex.html)
    Github issue pointing out the redundency of jekyll-latex!
 - `type-theme` : An alternative theme for jekyll with inbuild katex integration. Adopt this one if you can't make `minima` work with katex
+- `common-crawl` seems to be a good text dataset. Understand this discussion https://github.com/allenai/allennlp/discussions/5056
