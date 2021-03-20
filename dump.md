@@ -41,3 +41,4 @@
 - `common-crawl` seems to be a good text dataset. Understand this discussion https://github.com/allenai/allennlp/discussions/5056
 - Pytorch model inference on multi-core CPU:
     - https://github.com/pytorch/pytorch/issues/9873 : Seems to be a relevant issue on github. It suggests we compile from source to really utilize multiple cores.
+- UMD course based on ESL : [Link](http://users.umiacs.umd.edu/~hcorrada/PracticalML/#course-information)
