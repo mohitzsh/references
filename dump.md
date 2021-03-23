@@ -44,3 +44,4 @@
 - UMD course based on ESL : [Link](http://users.umiacs.umd.edu/~hcorrada/PracticalML/#course-information)
 - Python Concurrency from ground up : [David Beazley video](https://www.youtube.com/watch?v=MCs5OvhV9S4&ab_channel=PyCon2015):
     - Talks about threads, event loops and coroutines
+- Interjit Dhillon's notes on multiple-output regression [Link](https://www.cs.utexas.edu/users/inderjit/Talks/PAKDD20_Keynote_Dhillon.pdf)
