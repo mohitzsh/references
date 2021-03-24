@@ -47,3 +47,4 @@
 - Interjit Dhillon's notes on multiple-output regression [Link](https://www.cs.utexas.edu/users/inderjit/Talks/PAKDD20_Keynote_Dhillon.pdf)
 - Mahalanobis distance -- intuitive explanation [Link](https://www.ias.ac.in/article/fulltext/reso/004/06/0020-0026)
 - Some notes on quadratic forms [Link](http://pages.stat.wisc.edu/~st849-1/lectures/Ch02.pdf)
+- Tom Minka's notes of derivatives involving linear algebra https://tminka.github.io/papers/matrix/minka-matrix.pdf
