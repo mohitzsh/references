@@ -51,3 +51,4 @@
 - Tom Minka refers to this book for introductory material on differential calculus with matrices. See chapter 12 section 8. [Link](http://www.ru.ac.bd/stat/wp-content/uploads/sites/25/2019/03/106_08_Searle-_Matrix-Algebra-Useful-for-Statistics-1982.pdf) 
 - Folks from AllenNLP share -- How to do NLP research code [Link](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.g4651a6c938_2_126)
 - Lots of good advice on working on Data Science projects. [Link](https://minimum-viable-data-scientist.readthedocs.io/en/latest/) 
+- Video Lectures for first few chapters of Rudin [Youtube](https://www.youtube.com/playlist?list=PLun8-Z_lTkC5HAjzXCLEx0gQkJZD4uCtJ)
