@@ -53,3 +53,4 @@
 - Lots of good advice on working on Data Science projects. [Link](https://minimum-viable-data-scientist.readthedocs.io/en/latest/) 
 - Video Lectures for first few chapters of Rudin [Youtube](https://www.youtube.com/playlist?list=PLun8-Z_lTkC5HAjzXCLEx0gQkJZD4uCtJ)
 - Hoffman & Kunze -- recommended book for linear algebra along with Axler's book.
+- Francis Bach's book on learning theory from first principles [Link](https://www.di.ens.fr/~fbach/ltfp_book.pdf). Not an intro book! 
