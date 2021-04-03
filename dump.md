@@ -56,3 +56,4 @@
 - Francis Bach's book on learning theory from first principles [Link](https://www.di.ens.fr/~fbach/ltfp_book.pdf). Not an intro book! 
 - Francis Bach recommended Ethem Alpaydin's "Introduction To Machine learning" as a great intro textbook for machine learning. [Link](https://kkpatel7.files.wordpress.com/2015/04/alppaydin_machinelearning_2010.pdf)
 - Design Patterns in Python https://python-patterns.guide/
+- Nice blog posts on CS theory topics! Might be a good starting pioint to explore different areas in CS [Link](https://windowsontheory.org/)
