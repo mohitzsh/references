@@ -58,3 +58,4 @@
 - Design Patterns in Python https://python-patterns.guide/
 - Nice blog posts on CS theory topics! Might be a good starting pioint to explore different areas in CS [Link](https://windowsontheory.org/)
 - This guy posts good content on python packaging -- [Link](https://www.bernat.tech/)
+- Hitchhiker's guide to python packaging [Link](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html#)
