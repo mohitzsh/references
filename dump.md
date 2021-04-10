@@ -59,3 +59,4 @@
 - Nice blog posts on CS theory topics! Might be a good starting pioint to explore different areas in CS [Link](https://windowsontheory.org/)
 - This guy posts good content on python packaging -- [Link](https://www.bernat.tech/)
 - Hitchhiker's guide to python packaging [Link](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html#)
+- Brandon Rhodes seems to be a guu who knows his python! Check out some of his other content: https://rhodesmill.org/brandon/talks/#mighty-dictionary
