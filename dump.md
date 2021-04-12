@@ -60,3 +60,4 @@
 - This guy posts good content on python packaging -- [Link](https://www.bernat.tech/)
 - Hitchhiker's guide to python packaging [Link](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html#)
 - Brandon Rhodes seems to be a guu who knows his python! Check out some of his other content: https://rhodesmill.org/brandon/talks/#mighty-dictionary
+- One more resource on git internals : https://talkpython.fm/episodes/show/311/get-inside-the-.git-folder
