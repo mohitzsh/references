@@ -61,3 +61,4 @@
 - Hitchhiker's guide to python packaging [Link](https://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/index.html#)
 - Brandon Rhodes seems to be a guu who knows his python! Check out some of his other content: https://rhodesmill.org/brandon/talks/#mighty-dictionary
 - One more resource on git internals : https://talkpython.fm/episodes/show/311/get-inside-the-.git-folder
+- Check this book out on [Mathematics for Machine Learning](https://mml-book.github.io/). It has book, pdf notes, and video lectures.
