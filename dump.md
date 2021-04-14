@@ -63,3 +63,5 @@
 - One more resource on git internals : https://talkpython.fm/episodes/show/311/get-inside-the-.git-folder
 - Check this book out on [Mathematics for Machine Learning](https://mml-book.github.io/). It has book, pdf notes, and video lectures.
 - Allen NLP models: https://github.com/allenai/allennlp-models#readme
+- David Rosenber's ML course seems to be nice (with good step-by-step assignment problems): [Link](https://davidrosenberg.github.io/mlcourse)
+- LASSO Assignment from David Rosenber's course: [Link](https://davidrosenberg.github.io/mlcourse/Archive/2018/Homework/hw2.pdf)
