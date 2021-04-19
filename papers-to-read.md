@@ -1,2 +1,3 @@
 - Finetuning Pretrained Transformers into RNNs [Link](https://arxiv.org/abs/2103.13076)
-- LSTM based RNN for Large Vocabulary Speech Recognition [arxiv](https://arxiv.org/abs/1402.1128) (referenced in the pytorch LSTM documentation).
+- LSTM based RNN for Large Vocabulary Speech Recognition [arxiv](https://arxiv.org/abs/1402.1128) (referenced in the pytorch LSTM documentation).  
+    - Idea of LSTM with projections is introduced in this paper.
