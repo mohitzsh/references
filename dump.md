@@ -66,3 +66,4 @@
 - David Rosenber's ML course seems to be nice (with good step-by-step assignment problems): [Link](https://davidrosenberg.github.io/mlcourse)
 - LASSO Assignment from David Rosenber's course: [Link](https://davidrosenberg.github.io/mlcourse/Archive/2018/Homework/hw2.pdf)
 - Partial Least Squares in [CVPR paper](http://www.smartsenselab.dcc.ufmg.br/wp-content/uploads/2014/09/2009-Human-Detection-Using-Partial-Least-Squares-Analysis.pdf). 
+- [TorchDrift](https://torchdrift.org/notebooks/drift_detection_overview.html#What-is-drift?): Detection of drift in deep learning (potentially involve ideas from distribution shift, hypothesis testing, outlier detection. 
