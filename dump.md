@@ -69,3 +69,4 @@
 - [TorchDrift](https://torchdrift.org/notebooks/drift_detection_overview.html#What-is-drift?): Detection of drift in deep learning (potentially involve ideas from distribution shift, hypothesis testing, outlier detection. 
 - Karpathy's recipe for training neural network [link](http://karpathy.github.io/2019/04/25/recipe/)
 - High-performance, Distributed Training of Large-scale Deep Learning Recommendation Models [arxiv](https://arxiv.org/abs/2104.05158)
+- `Why Gaussianity?` Read this article on ubiquity of gaussian distribution.
