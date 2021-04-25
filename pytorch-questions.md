@@ -1,1 +1,3 @@
 - Difference between ```torch.repeat```, ```torch.repeat_interleave```, ```torch.expand```
+- ```PaddedSequence```
+  - Perhaps used as a memory efficient representation of batched sequences of different length.  
