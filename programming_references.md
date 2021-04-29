@@ -1,0 +1,2 @@
+- **Hashing**
+  - Overview of Collision Resolution techniques - [UW Course slide](https://courses.cs.washington.edu/courses/cse373/01sp/Lect13.pdf)
