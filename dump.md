@@ -70,8 +70,8 @@
 - Karpathy's recipe for training neural network [link](http://karpathy.github.io/2019/04/25/recipe/)
 - High-performance, Distributed Training of Large-scale Deep Learning Recommendation Models [arxiv](https://arxiv.org/abs/2104.05158)
 - `Why Gaussianity?` Read this article on ubiquity of gaussian distribution.
--  Rich Pattis has some wonderful programming courses at UCI and course website is amazingly well-maintained. Check them out:
-  - [ICS-46](https://www.ics.uci.edu/~pattis/ICS-46/): Data Structure Implementation and Analysis
-    - Introduction to common data structures using cpp
-  - [ICS-33](https://www.ics.uci.edu/~pattis/ICS-33/): Intermediate Programming
-    - Covers some of the details of python programming language
+-  Rich Pattis has some wonderful programming courses at UCI and course website is amazingly well-maintained. Check them out:  
+    - [ICS-46](https://www.ics.uci.edu/~pattis/ICS-46/): Data Structure Implementation and Analysis
+      - Introduction to common data structures using cpp
+    - [ICS-33](https://www.ics.uci.edu/~pattis/ICS-33/): Intermediate Programming
+      - Covers some of the details of python programming language
