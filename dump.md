@@ -76,3 +76,4 @@
     - [ICS-33](https://www.ics.uci.edu/~pattis/ICS-33/): Intermediate Programming
       - Covers some of the details of python programming language
 - [Pytorch Developer Podcast](https://pytorch-dev-podcast.simplecast.com/): Topics look interesting from the first look.
+- [Python Bytes Podcast](https://pythonbytes.fm/)
