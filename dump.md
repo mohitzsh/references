@@ -79,3 +79,6 @@
 - [Python Bytes Podcast](https://pythonbytes.fm/)
 - [How to easily write cli in python](https://arogozhnikov.github.io/2020/10/01/dont-write-cli.html)
 - Rust bindings for python [py03](https://pyo3.rs/v0.13.2/)
+- rst format for python docstrings:
+  - [Gentle Introduction](https://docutils.sourceforge.io/docs/user/rst/quickstart.html)
+  - [Reference Manual](https://docutils.sourceforge.io/docs/user/rst/quickref.html)
