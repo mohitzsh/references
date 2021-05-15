@@ -82,3 +82,4 @@
 - rst format for python docstrings:
   - [Gentle Introduction](https://docutils.sourceforge.io/docs/user/rst/quickstart.html)
   - [Reference Manual](https://docutils.sourceforge.io/docs/user/rst/quickref.html)
+- Great python [recipes](https://code.activestate.com/recipes/580610-auto-differentiation/?in=user-178123) -- even Raymond has contributed a few here.
