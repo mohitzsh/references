@@ -83,3 +83,5 @@
   - [Gentle Introduction](https://docutils.sourceforge.io/docs/user/rst/quickstart.html)
   - [Reference Manual](https://docutils.sourceforge.io/docs/user/rst/quickref.html)
 - Great python [recipes](https://code.activestate.com/recipes/580610-auto-differentiation/?in=user-178123) -- even Raymond has contributed a few here.
+- Sorted List Python [Implementation](http://www.grantjenks.com/docs/sortedcontainers/index.html)
+  - More than the module, the analysis of why this implementation is great is awesome.
