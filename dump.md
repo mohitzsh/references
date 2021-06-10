@@ -87,3 +87,4 @@
   - More than the module, the analysis of why this implementation is great is awesome.
 - Sameer shared this([link](https://www.gutenberg.org/files/21016/21016-pdf.pdf)) paper on **Theory of Numbers**.
 - https://cosmiccoding.com.au/tutorials/multiprocessing
+- [Pragmatic Programmer Blob](https://blog.pragmaticengineer.com)
