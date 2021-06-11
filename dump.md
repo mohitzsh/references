@@ -89,3 +89,4 @@
 - https://cosmiccoding.com.au/tutorials/multiprocessing
 - [Pragmatic Programmer Blob](https://blog.pragmaticengineer.com)
 - Distributed systems course from MTI. It has lecture notes, labs, and VIDEO LECTURES [Link](http://nil.csail.mit.edu/6.824/2020/schedule.html)
+- [Computational Structures](https://computationstructures.org/lectures/vm/vm.html) Notes accompanying one of the classes at MIT. It's a prereq for distributed systems.
