@@ -88,3 +88,4 @@
 - Sameer shared this([link](https://www.gutenberg.org/files/21016/21016-pdf.pdf)) paper on **Theory of Numbers**.
 - https://cosmiccoding.com.au/tutorials/multiprocessing
 - [Pragmatic Programmer Blob](https://blog.pragmaticengineer.com)
+- Distributed systems course from MTI. It has lecture notes, labs, and VIDEO LECTURES [Link](http://nil.csail.mit.edu/6.824/2020/schedule.html)
