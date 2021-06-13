@@ -1,0 +1,1 @@
+- The Myth of the "Genius Programmer", Google I/O [Link](https://www.youtube.com/watch?v=0SARbwvhupQ)
