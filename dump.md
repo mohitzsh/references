@@ -90,3 +90,4 @@
 - [Pragmatic Programmer Blob](https://blog.pragmaticengineer.com)
 - Distributed systems course from MTI. It has lecture notes, labs, and VIDEO LECTURES [Link](http://nil.csail.mit.edu/6.824/2020/schedule.html)
 - [Computational Structures](https://computationstructures.org/lectures/vm/vm.html) Notes accompanying one of the classes at MIT. It's a prereq for distributed systems.
+- [PGM](https://sailinglab.github.io/pgm-spring-2019/lectures/) couse from CMU. It has nice looking video lectures and a bunch of course material.
