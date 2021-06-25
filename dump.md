@@ -91,6 +91,7 @@
 - Distributed systems course from MTI. It has lecture notes, labs, and VIDEO LECTURES [Link](http://nil.csail.mit.edu/6.824/2020/schedule.html)
 - [Computational Structures](https://computationstructures.org/lectures/vm/vm.html) Notes accompanying one of the classes at MIT. It's a prereq for distributed systems.
 - [PGM](https://sailinglab.github.io/pgm-spring-2019/lectures/) couse from CMU. It has nice looking video lectures and a bunch of course material.
-- C++ Video lectures:
+- C++ Material
   - [Core C++](https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-) from Stephan T. Lavavej
   - [STL](https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-)
+  - [MIT course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014) with nice programming assignments for C and c++
