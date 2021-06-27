@@ -96,3 +96,4 @@
   - [STL](https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-)
   - [MIT course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014) with nice programming assignments for C and c++
   - MIT Course [Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) : Nice concepts and assignments.
+  - Stanford C++ course: [CS106L](https://learncs.me/stanford/cs106l) Good lectures, assignments, and video lectures.
