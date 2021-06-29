@@ -99,5 +99,5 @@
   - Stanford C++ course: [CS106L](https://learncs.me/stanford/cs106l) Good lectures, assignments, and video lectures.
   - C++ streams [youtube playlist](https://youtu.be/hk5NYscSPHI)
 
-- C++ and Deep Learning/Machine Learning/AI:
-  - GO through [NVIDIA APEX library](https://github.com/nvidia/apex). Written in C++ and CUDA with python bindings.
+  - [NVIDIA APEX library](https://github.com/nvidia/apex). Written in C++ and CUDA with python bindings.
+- [Fluent Interface Pattern](https://en.wikipedia.org/wiki/Fluent_interface) This is the design that allows you to chain operations.
