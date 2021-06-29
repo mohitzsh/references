@@ -98,3 +98,6 @@
   - MIT Course [Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/) : Nice concepts and assignments.
   - Stanford C++ course: [CS106L](https://learncs.me/stanford/cs106l) Good lectures, assignments, and video lectures.
   - C++ streams [youtube playlist](https://youtu.be/hk5NYscSPHI)
+
+- C++ and Deep Learning/Machine Learning/AI:
+  - GO through [NVIDIA APEX library](https://github.com/nvidia/apex). Written in C++ and CUDA with python bindings.
