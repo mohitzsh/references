@@ -101,3 +101,4 @@
 
   - [NVIDIA APEX library](https://github.com/nvidia/apex). Written in C++ and CUDA with python bindings.
 - [Fluent Interface Pattern](https://en.wikipedia.org/wiki/Fluent_interface) This is the design that allows you to chain operations.
+- Goldmine of papers on machine learning (deep) with limited data: [LINK](http://cs.brown.edu/courses/csci2952c/)
