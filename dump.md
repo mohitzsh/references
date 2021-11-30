@@ -103,4 +103,5 @@
 - [Fluent Interface Pattern](https://en.wikipedia.org/wiki/Fluent_interface) This is the design that allows you to chain operations.
 - Goldmine of papers on machine learning (deep) with limited data: [LINK](http://cs.brown.edu/courses/csci2952c/)
 - This guy seems to be creating repos with content I'm interested in. Writing C++, python, cuda, code for machine learning techniques like Gaussian Processes, graphical models. [Link](https://dfm.io/about/)
-- Product Sense (business Sense, metrics) https://www.youtube.com/watch?v=nPJKFWMiIC8
+- Product Sense Interview Preparation. https://www.youtube.com/watch?v=nPJKFWMiIC8
+  - This is more relevant for data science positions and less for engineering roles.
