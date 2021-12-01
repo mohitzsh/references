@@ -105,3 +105,6 @@
 - This guy seems to be creating repos with content I'm interested in. Writing C++, python, cuda, code for machine learning techniques like Gaussian Processes, graphical models. [Link](https://dfm.io/about/)
 - Product Sense Interview Preparation. https://www.youtube.com/watch?v=nPJKFWMiIC8
   - This is more relevant for data science positions and less for engineering roles.
+- Differentiation in higher dimensions:
+   - This is a highly relevant topic for machine learning (and I always get confused by notation, and some results). So in this block, I'll collect all the resources to make sense of this area. 
+   - A technical treatment of topic of differentiation in higher dimension is done in this lecture notes by Terrance Tao. https://www.math.ucla.edu/~tao/resource/general/131bh.1.03s/week7.pdf. It goes over defining what derivatives in higer dimensions are (building from one dimensional case) and how they relate to Jacobians (along with some introduction to required linear algebra knowledge)
