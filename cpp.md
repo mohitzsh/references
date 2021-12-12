@@ -1,0 +1,1 @@
+- People are raving about this [CPP talk](https://www.youtube.com/watch?v=zBkNBP00wJE&ab_channel=CppCon)
