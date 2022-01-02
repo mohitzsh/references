@@ -110,3 +110,4 @@
    - A technical treatment of topic of differentiation in higher dimension is done in this lecture notes by Terrance Tao. https://www.math.ucla.edu/~tao/resource/general/131bh.1.03s/week7.pdf. It goes over defining what derivatives in higer dimensions are (building from one dimensional case) and how they relate to Jacobians (along with some introduction to required linear algebra knowledge)
    - https://math.stackexchange.com/questions/2471651/why-is-continuity-of-partials-necessary-for-jacobian-to-be-the-derivative Existance of Jacobian and Total Derivatives. 
    - One thing I still don't understand is -- why is the matrix corresponding to total derivative linear map is a Jacobian Matrix?
+- Stanford Introduction to Programming Contests course [Course Page](http://stanford.edu/class/cs97si/)
